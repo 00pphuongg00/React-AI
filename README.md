@@ -8,4 +8,4 @@
 
 [Bước 4: ](https://github.com/phuongasl/React-AI.git) `npm start`
 
-Link website: `https://reactjs-ai.herokuapp.com/`
+[Link website: ](https://reactjs-ai.herokuapp.com) `https://reactjs-ai.herokuapp.com`
